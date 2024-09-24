@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988779589160",
+    "project_id": "coffee-shop-78aad",
+    "storage_bucket": "coffee-shop-78aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988779589160:android:37df86c196f27f24bd4f1d",
+        "android_client_info": {
+          "package_name": "belajar.coffeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEEOxhPGGu8jYi4HzPW_aFsbUw21W09Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
